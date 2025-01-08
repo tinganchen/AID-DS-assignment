@@ -1,5 +1,11 @@
 # AID-DS-assignment
 
+## Task 1.
+
+Please see answers in [report](report.pdf).
+
+## Task 2.
+
 ### Preprocessing
 * Remove the columns - 'id', 'CustomerId', 'Surname'
 * Turn the categorical variables ('Geography' & 'Gender') into one-hot encodings
