@@ -15,7 +15,7 @@ Please see answers in [report](report.pdf).
 * Logistic regression
 * XGBoost
 
-### Implement
+### Implementation
 ```
 python main.py
 ```
