@@ -19,4 +19,4 @@ After running the main file, the output files will be shown under the directory 
 
 ### Performances & discussion
 
-Please see [report](./output/report.pdf).
+Please see [report](report.pdf).
